@@ -1,4 +1,4 @@
-# assign3_port_scanner
+# Assignment 3 Port Scanner
 For IT567
 
 ## usage:
